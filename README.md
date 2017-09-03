@@ -19,4 +19,4 @@ The experiments have been carried out with a group of 30 volunteers within an ag
 
 ## More information about the variables
 
-Please refer to the codebook.
+Please refer to the [codebook](https://github.com/r-rex-x/coursera-getting-and-cleaning-data-week-4-project/blob/master/Codebook.rmd).
